@@ -1,0 +1,11 @@
+https://developer.apple.com/services-account/download?path=/WWDC_2020/iOS_14_beta/iPhone_4.7_P3_14.0_18A5301v_Restore.ipsw
+https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-49467/81F3B4D3-2C70-4A14-B1A3-92C96428A37E/iPhone_4.7_P3_14.2_18B5052h_Restore.ipsw
+https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-52854/B152A1C7-3C89-46B5-9C28-8166F8233264/iPhone_4.7_P3_14.2_18B5061e_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46745/3B2F50D2-6AA3-4048-A679-CB422D7FD773/iPhone_4.7_P3_14.0_18A373_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-24305/77CEBB9B-D49A-4221-95E0-18E9FFF3E500/iPhone_4.7_P3_14.0_18A5319i_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-30072/17B21352-B0E9-4559-8066-CBE7A61321DA/iPhone_4.7_P3_14.0_18A5332f_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-32700/806A893E-D379-11EA-B669-DA7C2DC09F60/iPhone_4.7_P3_14.0_18A5342e_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-35827/8474C6CC-09FA-42B7-98F2-0A00BB1B8C06/iPhone_4.7_P3_14.0_18A5351d_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-40517/46791310-8A08-4F2F-9CE8-7F70AB5DDEC7/iPhone_4.7_P3_14.0_18A5357e_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-44795/862594C8-51C9-425F-ACB4-F4C66DECD76E/iPhone_4.7_P3_14.0_18A5369b_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-45665/9406B82F-43AD-486F-A560-8EC044CBA8B4/iPhone_4.7_P3_14.0_18A5373a_Restore.ipsw

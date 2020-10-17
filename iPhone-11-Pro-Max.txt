@@ -1,0 +1,11 @@
+https://developer.apple.com/services-account/download?path=/WWDC_2020/iOS_14_beta/iPhone112iPhone114iPhone116iPhone123iPhone125_14.0_18A5301v_Restore.ipsw
+https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-49477/E72EA6B0-B931-4526-A346-150381E922B2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5052h_Restore.ipsw
+https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-52726/1751C64C-3197-4655-83B4-380F35762D69/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5061e_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46850/8A4DA7D0-40E1-4079-A159-5B0983102B66/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A373_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-24391/837F42A0-9C10-4A24-AD29-46CB35AD9315/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5319i_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-30180/A6C54BDF-0F07-4F91-B7D3-9A74F9C027E0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5332f_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-32759/F706D55C-D379-11EA-B0C5-C2D6F28C1D02/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5342e_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-35701/CAC57B5D-44C6-45A8-A9CE-21D090EF6B5B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5351d_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-40513/25AA6554-0260-4207-9389-1203B6BAE460/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5357e_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-44749/D0024426-675F-40EF-948A-A4A8077069B5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5369b_Restore.ipsw
+https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-45689/1377515B-08AE-4433-9AB6-C8D2FE4981C1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5373a_Restore.ipsw
